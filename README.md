@@ -56,9 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SAYEM088&show_icons=true&theme=transparent" />
-  <img src="https://streak-stats.demolab.com?user=SAYEM088&theme=transparent" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYEM088&layout=donut&langs_count=5&theme=transparent" width="500px" height="200px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAYEM088&layout=donut&langs_count=5&theme=transparent" width="500px" height="200px" />
-</p>
+<br>
